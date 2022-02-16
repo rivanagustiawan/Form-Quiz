@@ -1,11 +1,11 @@
 const quizData = [
     {
-        question: "Which language runs in a web browser?",
-        a: "Java",
-        b: "C",
-        c: "Python",
+        question: "Which framework use for PHP?",
+        a: "Kotlin",
+        b: "React",
+        c: "Laravel",
         d: "JavaScript",
-        correct: "d",
+        correct: "c",
     },
     {
         question: "What does CSS stand for?",
@@ -16,20 +16,20 @@ const quizData = [
         correct: "b",
     },
     {
-        question: "What does HTML stand for?",
-        a: "Hypertext Markup Language",
-        b: "Hypertext Markdown Language",
-        c: "Hyperloop Machine Language",
-        d: "Helicopters Terminals Motorboats Lamborginis",
-        correct: "a",
+        question: "What is tailwind?",
+        a: "Programming Language",
+        b: "CSS Framework",
+        c: "Machine Language",
+        d: "CDN",
+        correct: "b",
     },
     {
-        question: "What year was JavaScript launched?",
-        a: "1996",
-        b: "1995",
-        c: "1994",
+        question: "What year was Go-lang launched?",
+        a: "2012",
+        b: "2008",
+        c: "1998",
         d: "none of the above",
-        correct: "b",
+        correct: "a",
     },
 ];
 
