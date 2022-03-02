@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "Which framework use for PHP?",
+        question: "Which framework usesss for PHP?",
         a: "Kotlin",
         b: "React",
         c: "Laravel",
